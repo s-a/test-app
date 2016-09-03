@@ -1,0 +1,15 @@
+{
+    "my": {
+        "version": "1.9.19",
+        "environments": {
+            "web": {
+                "source": "c:\\git\\deployager\\exampleApps\\my-page",
+                "target": "c:\\_deployager\\www",
+                "remoteHost": "localhost",
+                "remotePort": "8080",
+                "remote_target_folder": "c:\\_deployager_\\www",
+                "client_task_script": "c:\\git\\deployager\\lib\\script\\copy-upload.js"
+            }
+        }
+    }
+}
