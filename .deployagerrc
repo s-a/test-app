@@ -1,6 +1,6 @@
 {
     "my": {
-        "version": "1.9.19",
+        "version": "1.9.20",
         "environments": {
             "web": {
                 "source": "c:\\git\\deployager\\exampleApps\\my-page",
